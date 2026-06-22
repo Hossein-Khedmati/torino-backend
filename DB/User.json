@@ -35,8 +35,8 @@
     "nationalCode": "0025591878",
     "payment": {
       "shaba_code": "546526",
-      "debitCard_code": "string",
-      "accountIdentifier": "string"
+      "debitCard_code": "",
+      "accountIdentifier": ""
     }
   },
   {
